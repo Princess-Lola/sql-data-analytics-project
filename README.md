@@ -3,6 +3,8 @@
 This repository presents a **conceptual roadmap** for Data Analytics — outlining the journey from **Exploratory Data Analysis (EDA)** to **Advanced Analytics**.  
 The diagram serves as a guide for analysts, students, and data enthusiasts who want to understand how data exploration evolves into actionable analytical insights.
 
+![Data Analytics Roadmap](docs/overs.jpg)
+
 ---
 
 ## 🚀 Overview
@@ -17,7 +19,7 @@ This roadmap visualizes two major branches of analytics:
 
 ## 🧭 Diagram Overview
 
-![Data Analytics Roadmap](./Project%20Roadmap.png)
+![Data Analytics Roadmap](docs/ProjectRoadmap.png)
 
 > *A visual map showing the connection between Exploratory Data Analysis (EDA) and Advanced Analytics.*
 
